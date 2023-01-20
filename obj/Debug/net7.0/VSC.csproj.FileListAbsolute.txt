@@ -1,0 +1,15 @@
+C:\Users\Farhad\code\CPS3330\VSC\bin\Debug\net7.0\VSC.exe
+C:\Users\Farhad\code\CPS3330\VSC\bin\Debug\net7.0\VSC.deps.json
+C:\Users\Farhad\code\CPS3330\VSC\bin\Debug\net7.0\VSC.runtimeconfig.json
+C:\Users\Farhad\code\CPS3330\VSC\bin\Debug\net7.0\VSC.dll
+C:\Users\Farhad\code\CPS3330\VSC\bin\Debug\net7.0\VSC.pdb
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\VSC.csproj.AssemblyReference.cache
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\VSC.AssemblyInfoInputs.cache
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\VSC.AssemblyInfo.cs
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\VSC.csproj.CoreCompileInputs.cache
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\VSC.dll
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\refint\VSC.dll
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\VSC.pdb
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\VSC.genruntimeconfig.cache
+C:\Users\Farhad\code\CPS3330\VSC\obj\Debug\net7.0\ref\VSC.dll
